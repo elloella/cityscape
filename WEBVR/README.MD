@@ -13,4 +13,4 @@ Extract the file and then open up the terminal.
 Run $ cd (The Project File) Then $ node server.js. And open up the local host on your web browser.
 
 To run it on the web go to https://webvr-cityscape.herokuapp.com/ OR
-https://mobilevr-cityscape.herokuapp.com/
+https://mobilevr-cityscape.herokuapp.com/ (Fom a Mobile Phone)
